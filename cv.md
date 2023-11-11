@@ -38,3 +38,20 @@ var sum = 0;
   return sum;
 }
 ```
+## Work experience
+
+[RSSchool CV](https://zhuzhanchini.github.io/rsschool-cv/)
+
+## Education
+
+- **Catherine the Great National Institute**
+    - Economics
+- **Tomsk State University**
+    - Аndroid application developer
+- **RSSchool 2023Q4**
+    - JavaScrypt/FrontEnd (in process)
+
+## Languages
+
+- **Russian**
+- **English** - B1
