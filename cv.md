@@ -50,3 +50,8 @@ var sum = 0;
     - Аndroid application developer
 - **RSSchool 2023Q4**
     - JavaScrypt/FrontEnd (in process)
+
+## Languages
+
+- **Russian**
+- **English** - B1
