@@ -22,3 +22,20 @@ There are lots of stories about purposeful people who worked hard on something a
 - CSS (Preprocessor SCSS)
 - Git/GitHub
 - VSCode
+
+## Code examples
+
+```js
+ function sumMul(n,m){
+  if (n >= m) return "INVALID";
+
+var sum = 0;
+  for (var i = n; i < m; i+=n) {
+    sum += i;
+  }
+  return sum;
+}
+```
+## Work experience
+
+[RSSchool CV](https://zhuzhanchini.github.io/rsschool-cv/)
