@@ -46,8 +46,8 @@ var sum = 0;
     - Economics
 - **Tomsk State University**
     - Аndroid application developer
-- **RSSchool 2023Q4**
-    - JavaScrypt/FrontEnd (in process)
+- **RSSchool 2024Q2**
+    - JavaScrypt/FrontEnd Pre-School(in process)
 
 ## Languages
 
